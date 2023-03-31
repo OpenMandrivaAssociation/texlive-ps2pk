@@ -1,6 +1,6 @@
 Name:		texlive-ps2pk
 Version:	52851
-Release:	1
+Release:	2
 Summary:	Generate a PK font from an Adobe Type 1 font
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ps2pk
